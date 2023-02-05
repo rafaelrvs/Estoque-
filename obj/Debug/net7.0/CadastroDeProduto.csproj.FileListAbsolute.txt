@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\bin\Debug\net7.0\CadastroDeProduto.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\bin\Debug\net7.0\CadastroDeProduto.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\bin\Debug\net7.0\CadastroDeProduto.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\bin\Debug\net7.0\CadastroDeProduto.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\bin\Debug\net7.0\CadastroDeProduto.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\refint\CadastroDeProduto.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\CadastroDeProduto.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\CadastroDeProduto\obj\Debug\net7.0\ref\CadastroDeProduto.dll
